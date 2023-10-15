@@ -16,13 +16,18 @@
 
 
 
-<h6><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yimona&show_icons=true&locale=en&layout=compact" alt="yimona" /></h6>
+<h6><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yimona&show_icons=true&locale=en&layout=compact" alt="yimona" /></h6>
 <br>
 
-<h6> <img align="left" src="https://github-readme-stats.vercel.app/api?username=yimona&show_icons=true&locale=en" alt="yimona" /></h6>
+
+
+
+
+
+<h6> <img src="https://github-readme-stats.vercel.app/api?username=yimona&show_icons=true&locale=en" alt="yimona" /></h6>
 <br>
 
-<h6> <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yimona&" alt="yimona" /></h6>
+<h6> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yimona&" alt="yimona" /></h6>
 <br>
 
-<h6> <img align="left" src="https://komarev.com/ghpvc/?username=yimona&label=Profile%20views&color=0e75b6&style=flat" alt="winwinmaw4" /> </h6>
+<h6> <img src="https://komarev.com/ghpvc/?username=yimona&label=Profile%20views&color=0e75b6&style=flat" alt="winwinmaw4" /> </h6>
