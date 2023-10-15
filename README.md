@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" height="300" src="https://cdn.dribbble.com/users/785695/screenshots/3379868/media/048c164ff13787fdb6292c78ac602cc9.gif" />
+<img align="center" alt="Coding" width="1000" height="300" src="/imgs/img1.jpg" />
 
 <h1 align="center">Hello 👋, I'm Yi Mon Aye</h1>
 <h3 align="center">Front-End Developer (React)</h3>
