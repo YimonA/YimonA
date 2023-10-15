@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="700" height="300" src="/imgs/img1.jpg" />
+<img align="center" alt="Coding" width="460" height="300" src="/imgs/img1.jpg" />
 
 <h1 align="center">Hello 👋, I'm Yi Mon Aye</h1>
 <h3 align="center">Front-End Developer (React)</h3>
