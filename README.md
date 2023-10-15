@@ -1,10 +1,7 @@
-![logo](https://cdn.dribbble.com/users/785695/screenshots/3379868/media/048c164ff13787fdb6292c78ac602cc9.gif)
+<img align="center" alt="Coding" width="1000" height="600" src="https://cdn.dribbble.com/users/785695/screenshots/3379868/media/048c164ff13787fdb6292c78ac602cc9.gif" />
 
-
-<img align="center" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/785695/screenshots/3379868/media/048c164ff13787fdb6292c78ac602cc9.gif" />
-
-<h2 align="center">Hi 👋, I'm Yi Mon Aye</h2>
-<h4 align="center">Front-End Developer (React)</h4>
+<h1 align="center">Hi 👋, I'm Yi Mon Aye</h1>
+<h3 align="center">Front-End Developer (React)</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/YimonA?tab=repositories](https://github.com/YimonA?tab=repositories)
 
@@ -18,8 +15,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yimona&show_icons=true&locale=en&layout=compact" alt="yimona" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yimona&show_icons=true&locale=en" alt="yimona" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yimona&show_icons=true&locale=en" alt="yimona" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yimona&" alt="yimona" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=yimona&" alt="yimona" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yimona&label=Profile%20views&color=0e75b6&style=flat" alt="winwinmaw4" /> </p>
