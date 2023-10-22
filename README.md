@@ -20,4 +20,4 @@
 
 <h6> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yimona&" alt="yimona" /></h6>
 
-<h6> <img src="https://komarev.com/ghpvc/?username=yimona&label=Profile%20views&color=0e75b6&style=flat" alt="winwinmaw4" /> </h6>
+<h6> <img src="https://komarev.com/ghpvc/?username=yimona&label=Profile%20views&color=0e75b6&style=flat" alt="yimonaye" /> </h6>
